@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aiko</string>
+    <string name="accessibility_description">Aiko uses this service ONLY when you ask her to perform an action on your phone (open an app, send a message, press a button). She never reads passwords or OTPs.</string>
+</resources>
